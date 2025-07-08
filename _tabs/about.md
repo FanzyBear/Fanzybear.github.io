@@ -10,7 +10,7 @@ order: 4
   <!-- Text -->
   <div style="flex: 1 1 300px; min-width: 250px; display: flex; flex-direction: column; justify-content: center;">
     <div style="height: 100%;">
-      <p>Hey, I'm <strong>Fanzybear</strong> — a 22-year-old third-year <strong>Computer Science student</strong> with a growing obsession for cybersecurity.</p>
+      <p>Hey, I'm <strong>oceanwarranty</strong> — a 22-year-old third-year <strong>Computer Science student</strong> with a growing obsession for cybersecurity.</p>
 
       <p>I dive deep into <strong>Capture The Flag (CTF)</strong> competitions, solving real-world security challenges that push my skills to the limit. My favorite categories? <strong>Reverse Engineering, Forensics, Web Exploitation, Pwn,</strong> and the always-unpredictable <strong>Misc</strong>.</p>
 
@@ -20,7 +20,7 @@ order: 4
 
   <!-- Image -->
   <div style="flex: 0 0 150px; display: flex; align-items: center;">
-    <img src="{{ '/assets/img/avatar/beni full clean.png' | relative_url }}" alt="Fanzybear pic" style="width: 150px; border-radius: 10px; object-fit: cover; height: 100%;">
+    <img src="{{ '/assets/img/avatar/beni full clean.png' | relative_url }}" alt="oceanwarranty pic" style="width: 150px; border-radius: 10px; object-fit: cover; height: 100%;">
   </div>
 
 </div>
