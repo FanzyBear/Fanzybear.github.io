@@ -11,8 +11,8 @@ order: 4
 </style>
 
 # **Who Dafuq is Oceanwarranty?**
-<!-- Intro with profile picture -->
 
+<!-- Intro with profile picture -->
 <div style="display: flex; align-items: stretch; gap: 1.5rem; margin-bottom: 2rem; flex-wrap: wrap;">
 
   <!-- Text -->
@@ -25,7 +25,7 @@ order: 4
 
       <p>i still break my VM. i still forget arguments in <code>gdb</code>. i still waste hours on dumb typos. but every challenge is a puzzle worth solving. every exploit is proof that it wasn’t bulletproof. every sleepless night is a bet on learning something real.</p>
 
-      <p>i’m still figuring it out.<br>
+      <p>i’m still figuring it out.<br></p>
     </div>
   </div>
 
@@ -35,7 +35,6 @@ order: 4
   </div>
 
 </div>
-
 
 <!-- Responsive grid layout -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; align-items: stretch; margin-top: 1rem;">
