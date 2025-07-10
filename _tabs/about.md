@@ -19,16 +19,13 @@ order: 4
   <div style="flex: 1 1 300px; min-width: 250px; display: flex; flex-direction: column; justify-content: center;">
     <div style="height: 100%;">
       <p>hey.<br>
-      i'm <strong>oceanwarranty</strong>, 22, allegedly a third-year <strong>computer science student</strong> but spiritually a full-time digital gremlin. halfway through my degree, fully lost in the sauce of cybersecurity. i don’t “study” — i sacrifice sleep on the altar of CTFs, whisper sweet nothings to <code>gdb</code>, and beg my kernel not to panic.</p>
+      i'm <strong>oceanwarranty</strong>, 22. technically a third-year <strong>computer science student</strong>, but most of my time goes into breaking things that were never mine to begin with. halfway through the degree, fully absorbed by cybersecurity. i don’t study, i debug at 3AM, throw scripts at problems, and pray the kernel holds.</p>
 
-      <p>i exist in the trenches of <strong>reverse engineering</strong> and <strong>pwn</strong>, where nothing compiles on the first try, nothing runs without breaking, and segfaults greet me like old friends. assembly is my Stockholm syndrome. i hate it. i love it. it hurts me. i ask for more. am i okay? absolutely not. pwn makes me believe demons are real and they live in heap metadata. forensics is digital archaeology powered by tears. web? a haunted house coded in PHP and patched with duct tape. misc? that’s god’s roulette — maybe it’s stego, maybe it’s a cursed PDF from 1997 that spawns nightmares when opened in <code>strings</code>.</p>
+      <p>i’m not a genius. i just don’t stop. i read writeups like manuals for survival. i brute-force logic, not passwords. i stare at disassembly until something makes sense or i lose track of time. i throw payloads into broken apps and hope something gives. every flag is enough to keep going.</p>
 
-      <p>i’m not some cyber genius — i’m just extremely stubborn and slightly deranged. i read writeups like scripture. i brute-force logic like a caveman with a hammer. i stare at disassembled functions for hours, hoping the binary speaks to me in a dream. i throw payloads into the void and smile when it breaks things. every flag gives me just enough serotonin to keep ruining my sleep schedule.</p>
+      <p>i still break my VM. i still forget arguments in <code>gdb</code>. i still waste hours on dumb typos. but every challenge is a puzzle worth solving. every exploit is proof that it wasn’t bulletproof. every sleepless night is a bet on learning something real.</p>
 
-      <p>i’m not there yet. i still crash my VM weekly. i still forget to <code>set args</code> in <code>gdb</code>. i still spend 3 hours debugging a one-byte typo. but every challenge is a boss fight. every exploit is a cursed poem. every all-nighter is a sacrifice to the god of “maybe this time it works.”</p>
-
-      <p>i am learning. i am suffering. i am reborn through buffer overflows.<br>
-      <strong>this is the way.<br>no backups. no comments. no peace.</strong></p>
+      <p>i’m still figuring it out.<br>
     </div>
   </div>
 
